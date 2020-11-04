@@ -1,6 +1,6 @@
 {
   "name": "delete-null",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "this package will delete null or empty objects from an object",
   "main": "index.js",
   "scripts": {
