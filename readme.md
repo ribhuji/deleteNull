@@ -1,6 +1,6 @@
 # delete-null
 
-  Fast, unopinionated, minimalist web framework for [node](http://nodejs.org).
+  Cleaning Objects was never more easy.
 
 ```js
 const deleteNull = require('delete-null')
