@@ -1,0 +1,16 @@
+{
+  "name": "delete-null",
+  "version": "0.1.0",
+  "description": "this package will delete null or empty objects from an object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "delete",
+    "null",
+    "object"
+  ],
+  "author": "Ribhu Ratnam",
+  "license": "MIT"
+}
