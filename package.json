@@ -9,7 +9,16 @@
   "keywords": [
     "delete",
     "null",
-    "object"
+    "object",
+    "recursive",
+    "recursively",
+    "empty",
+    "delete-null",
+    "clean",
+    "undefined",
+    "remove",
+    "cleaner",
+    "remover"
   ],
   "author": "Ribhu Ratnam",
   "license": "MIT"
