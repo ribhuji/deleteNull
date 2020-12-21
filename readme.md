@@ -3,9 +3,36 @@
   Cleaning Objects was never more easy.
 
 ```js
-const deleteNull = require('delete-null')
+const deleteNull = require('delete-null');
+
+var obj = {
+  name: "ribhu",
+  surname: "ratnam",
+  age: 20,
+  bio: {},
+  friends: {
+    first : undefined,
+    second : null
+  },
+  books: {
+    first: "Harry Potter",
+    second: {},
+    third: null,
+    fourth : undefined
+  }
+}
 
 obj = deleteNull(obj);
+  /*
+  obj = {
+    name: "ribhu",
+    surname: "ratnam",
+    age: 20,
+    books: {
+      first: "Harry Potter"
+    }
+  }
+  */
 ```
 
 ## Installation
